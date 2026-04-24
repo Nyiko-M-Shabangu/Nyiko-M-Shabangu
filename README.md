@@ -55,7 +55,7 @@ Tools:         Git • Visual Studio • Android Studio
 <div align="center">
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ST10119175&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyiko-M-Shabangu&layout=compact&theme=radical)
 
 </div>
 
