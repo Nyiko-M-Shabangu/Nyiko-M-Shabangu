@@ -3,13 +3,12 @@
 ### Problem solver | AI engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.nyiko.co.za/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyikoshabangu/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nyiko-M-Shabangu)
 
 
 ## 🛠️ Tech Stack
 
-**Languages:** Python • C# • Java • Kotlin • JavaScript • TypeScript  
+**Languages:** Python • C# • JavaScript • TypeScript  
 **Frontend:** React • Next.js • HTML/CSS  
 **Backend:** Node.js • Express • .NET Framework  
 **Mobile:** Android Studio • Kotlin  
